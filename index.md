@@ -120,5 +120,6 @@ Here are some suggested enhancements:
 ## Team
 
 ManoaMenu is designed, implemented, and maintained by Brendan Kuwabara, Adam Graham, Eric Kim, Dat Truong, Justin Sumiye
+[Contact Us](https://docs.google.com/forms/d/e/1FAIpQLSeFjppa3ajvsI7c_eEowaYJoDJubiW4-D2d0TkilkQ5DkKcgw/viewform?usp=sf_link) if you have any comments or questions.
 
 ### [Team Contract](https://docs.google.com/document/d/1WQ-8HhZOTxxuxRtMikDlzCzVJDAc71cl1xgYNTWC_qc/edit?tab=t.0)
