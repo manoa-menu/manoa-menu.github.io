@@ -35,7 +35,7 @@ This section provides an overview of Manoa Menu's user interface and functionali
 
 The landing page greets users and introduces Manoa Menu's purpose and features.
 
-![Landing Page](images/landing-page.png)
+![Landing Page](https://via.placeholder.com/1280x720/A3C8FF/000000?text=Landing+Page)
 
 ### Menu Page
 
@@ -51,19 +51,23 @@ Accessible after logging in, this page displays:
   - Saved favorite items and an indicator if any of these items are on this week’s menu
   - Recommended menu items, based on previous favorites
 
+![Dashboard Page](https://via.placeholder.com/1280x720/A3C8FF/000000?text=Dashboard+Page)
+
 ### Popular Items Page
 
 This page shows popular menu items among other students, with an option to add items to favorites.
+
+![Popular Items](https://via.placeholder.com/1280x720/A3C8FF/000000?text=Popular+Items+Page)
 
 ### Sign-in and Sign-up
 
 Click the "Login" button in the upper right corner to go to the sign-in page. Only registered users can sign in:
 
-![Sign-in Page](images/signin-page.png)
+![Sign-in Page](https://via.placeholder.com/1280x720/A3C8FF/000000?text=Sign+In+Page)
 
 Alternatively, select "Sign up" to register as a new user:
 
-![Sign-up Page](images/signup-page.png)
+![Sign-up Page](https://via.placeholder.com/1280x720/A3C8FF/000000?text=Sign+Up+Page)
 
 ## Community Feedback
 
