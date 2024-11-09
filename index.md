@@ -1,15 +1,29 @@
 # Manoa Menu
 
+![Manoa Menu Bg](/img/manoa-menu-bg.png)
+
+
 ## Table of contents
 
-* [Overview](#overview)
-* [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
-* [Developer Guide](#developer-guide)
-* [Development History](#development-history)
-* [Continuous Integration](#continuous-integration)
-* [Example Enhancements](#example-enhancements)
-* [Team](#team)
+- [Manoa Menu](#manoa-menu)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Approach](#approach)
+  - [User Guide](#user-guide)
+    - [Landing Page](#landing-page)
+    - [Menu Page](#menu-page)
+    - [Dashboard Page](#dashboard-page)
+    - [Popular Items Page](#popular-items-page)
+    - [Sign-in and Sign-up](#sign-in-and-sign-up)
+  - [Community Feedback](#community-feedback)
+  - [Developer Guide](#developer-guide)
+    - [Installation](#installation)
+    - [Application Design](#application-design)
+  - [Continuous Integration](#continuous-integration)
+  - [Development History](#development-history)
+  - [Example Enhancements](#example-enhancements)
+  - [Team](#team)
+    - [Team Contract](#team-contract)
 
 ## Overview
 
