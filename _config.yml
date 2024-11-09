@@ -2,7 +2,7 @@ title: Manoa Menu
 description: Menu translations for International Students at UH Manoa
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 github:
   is_project_page: true
   repository_url: https://github.com/manoa-menu
