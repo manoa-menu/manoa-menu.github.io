@@ -119,4 +119,6 @@ Here are some suggested enhancements:
 
 ## Team
 
-[List team members here with roles and responsibilities]
+ManoaMenu is designed, implemented, and maintained by Brendan Kuwabara, Adam Graham, Eric Kim, Dat Truong, Justin Sumiye
+
+### [Team Contract](https://docs.google.com/document/d/1WQ-8HhZOTxxuxRtMikDlzCzVJDAc71cl1xgYNTWC_qc/edit?tab=t.0)
