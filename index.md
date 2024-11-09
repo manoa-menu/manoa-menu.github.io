@@ -3,7 +3,6 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -98,8 +97,6 @@ This section provides information for developers who want to contribute to or cu
 Manoa Menu uses Next.js for its frontend, while the backend is structured with Prisma ORM and PostgreSQL. The data model includes tables for users, menu items, and saved favorites, supporting relational queries to efficiently manage user data and preferences.
 
 ## Continuous Integration
-
-![CI Badge](https://github.com/manoamenu/manoamenu/workflows/ci-manoamenu/badge.svg)
 
 Manoa Menu uses GitHub Actions to automatically run linting and tests for each commit to the main branch. You can view recent workflow results at [https://github.com/manoamenu/manoamenu/actions](https://github.com/manoamenu/manoamenu/actions).
 
