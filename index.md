@@ -82,7 +82,7 @@ Alternatively, select "Sign up" to register as a new user:
 
 ## Community Feedback
 
-We’d love to hear your thoughts on Manoa Menu! Feel free to take a few minutes to fill out the [Manoa Menu Feedback Form](https://forms.gle/hBHdccQEbm4YNfPd6), which has just five questions to help us improve the system.
+We’d love to hear your thoughts on Manoa Menu! Feel free to take a few minutes to fill out the [Manoa Menu Feedback Form](https://forms.gle/fp6cH6FRNwqR3KMP6), which has just five questions to help us improve the system.
 
 ## Developer Guide
 
@@ -135,6 +135,6 @@ Here are some suggested enhancements:
 
 ManoaMenu is designed, implemented, and maintained by Brendan Kuwabara, Adam Graham, Eric Kim, Dat Truong, Justin Sumiye
 
-[Contact Us](https://docs.google.com/forms/d/e/1FAIpQLSeFjppa3ajvsI7c_eEowaYJoDJubiW4-D2d0TkilkQ5DkKcgw/viewform?usp=sf_link) if you have any comments or questions.
+[Contact us](https://forms.gle/9PpZQAKeNpWkX4NNA) if you have any comments or questions.
 
 ### [Team Contract](https://docs.google.com/document/d/1WQ-8HhZOTxxuxRtMikDlzCzVJDAc71cl1xgYNTWC_qc/edit?tab=t.0)
