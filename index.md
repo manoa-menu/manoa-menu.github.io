@@ -54,7 +54,7 @@ The landing page greets users and introduces Manoa Menu's purpose and features.
 
 This page shows the current cafeteria menu. By default, it displays in English, but users can select the Japanese translation if desired.
 
-![Menu Page](https://via.placeholder.com/1280x720/A3C8FF/000000?text=Menu+Page)
+![Menu Page](/img/mockups/MenuPage.png)
 
 ### Dashboard Page
 
