@@ -54,6 +54,9 @@ The landing page greets users and introduces Manoa Menu's purpose and features.
 
 This page shows the current cafeteria menu. By default, it displays in English, but users can select the Japanese translation if desired.
 
+For Campus Center Menu scraping: [PDF-Parse NPM](https://www.npmjs.com/package/pdf-parse)
+For Gateway Menu scraping: [Puppeteer NPM](https://www.npmjs.com/package/puppeteer)
+
 ![Menu Page](/img/mockups/MenuPage.png)
 
 ### Dashboard Page
