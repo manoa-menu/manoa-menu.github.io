@@ -57,7 +57,7 @@ This page shows the current cafeteria menu. By default, it displays in English, 
 For Campus Center Menu scraping: [PDF-Parse NPM](https://www.npmjs.com/package/pdf-parse)
 For Gateway Menu scraping: [Puppeteer NPM](https://www.npmjs.com/package/puppeteer)
 
-![Menu Page](https://via.placeholder.com/1280x720/A3C8FF/000000?text=Menu+Page)
+![Menu Page](/img/mockups/MenuPage.png)
 
 ### Dashboard Page
 
