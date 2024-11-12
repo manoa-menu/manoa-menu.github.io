@@ -65,7 +65,7 @@ Accessible after logging in, this page displays:
   - Saved favorite items and an indicator if any of these items are on this week’s menu
   - Recommended menu items, based on previous favorites
 
-![Dashboard Page](https://via.placeholder.com/1280x720/A3C8FF/000000?text=Dashboard+Page)
+![Dashboard Page](img/mockups/Dashboard.png)
 
 ### Popular Items Page
 
