@@ -15,6 +15,7 @@
     - [Dashboard Page](#dashboard-page)
     - [Popular Items Page](#popular-items-page)
     - [Translation Page](#translation-page)
+    - [Exchange Rate](#exchange-rate)
     - [Sign-in and Sign-up](#sign-in-and-sign-up)
   - [Community Feedback](#community-feedback)
   - [Developer Guide](#developer-guide)
@@ -79,6 +80,12 @@ This page shows popular menu items among other students, with an option to add i
 This page displays the website in the language chosen by the user.
 
 ![Translation Page](img/mockups/TranslationPage.png)
+
+### Exchange Rate
+
+This feature allows a separate currency to be displayed next to the dollar value of an item. The user may choose the separate currency from a dropdown menu.
+
+![Exchange Rate](img/mockups/ExchangeRate.png)
 
 ### Sign-in and Sign-up
 
