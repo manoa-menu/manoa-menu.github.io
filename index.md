@@ -73,6 +73,12 @@ This page shows popular menu items among other students, with an option to add i
 
 ![Popular Items](https://via.placeholder.com/1280x720/A3C8FF/000000?text=Popular+Items+Page)
 
+### Translation Page
+
+This page displays the website in the language chosen by the user.
+
+![Translation Page](img/mockups/TranslationPage.png)
+
 ### Sign-in and Sign-up
 
 Click the "Login" button in the upper right corner to go to the sign-in page. Only registered users can sign in:
