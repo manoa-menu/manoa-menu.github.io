@@ -57,6 +57,7 @@ The landing page greets users and introduces Manoa Menu's purpose and features.
 This page shows the current cafeteria menu. By default, it displays in English, but users can select the Japanese translation if desired.
 
 For Campus Center Menu scraping: [PDF-Parse NPM](https://www.npmjs.com/package/pdf-parse)
+
 For Gateway Menu scraping: [Puppeteer NPM](https://www.npmjs.com/package/puppeteer)
 
 ![Menu Page](/img/mockups/MenuPage.png)
@@ -150,7 +151,7 @@ Here are some suggested enhancements:
 
 ## Team
 
-ManoaMenu is designed, implemented, and maintained by Brendan Kuwabara, Adam Graham, Eric Kim, Dat Truong, Justin Sumiye
+ManoaMenu is designed, implemented, and maintained by [Brendan Kuwabara](https://github.com/BYKuwabara), [Adam Graham](https://github.com/usradam), [Eric Kim](https://github.com/erickimtypes), [Dat Truong](https://github.com/DatTruong606), and [Justin Sumiye](https://github.com/practical-software)
 
 [Contact us](https://forms.gle/9PpZQAKeNpWkX4NNA) if you have any comments or questions.
 
