@@ -57,6 +57,7 @@ The landing page greets users and introduces Manoa Menu's purpose and features.
 This page shows the current cafeteria menu. By default, it displays in English, but users can select the Japanese translation if desired.
 
 For Campus Center Menu scraping: [PDF-Parse NPM](https://www.npmjs.com/package/pdf-parse)
+
 For Gateway Menu scraping: [Puppeteer NPM](https://www.npmjs.com/package/puppeteer)
 
 ![Menu Page](/img/mockups/MenuPage.png)
@@ -73,7 +74,7 @@ Accessible after logging in, this page displays:
 
 This page shows popular menu items among other students, with an option to add items to favorites.
 
-![Popular Items](https://via.placeholder.com/1280x720/A3C8FF/000000?text=Popular+Items+Page)
+![Popular Items](img/mockups/popularItems.png)
 
 ### Translation Page
 
@@ -83,7 +84,7 @@ This page displays the website in the language chosen by the user.
 
 ### Exchange Rate
 
-This feature allows a separate currency to be displayed next to the dollar value of an item. The user may choose the separate currency from a dropdown menu.
+This feature allows a foreign currency to be displayed next to the dollar value of an item. The user may choose a currency from a dropdown menu.
 
 ![Exchange Rate](img/mockups/ExchangeRate.png)
 
@@ -91,11 +92,11 @@ This feature allows a separate currency to be displayed next to the dollar value
 
 Click the "Login" button in the upper right corner to go to the sign-in page. Only registered users can sign in:
 
-![Sign-in Page](https://via.placeholder.com/1280x720/A3C8FF/000000?text=Sign+In+Page)
+![Sign-in Page](img/mockups/login.png)
 
 Alternatively, select "Sign up" to register as a new user:
 
-![Sign-up Page](https://via.placeholder.com/1280x720/A3C8FF/000000?text=Sign+Up+Page)
+![Sign-up Page](img/mockups/register.png)
 
 ## Community Feedback
 
@@ -150,7 +151,7 @@ Here are some suggested enhancements:
 
 ## Team
 
-ManoaMenu is designed, implemented, and maintained by Brendan Kuwabara, Adam Graham, Eric Kim, Dat Truong, Justin Sumiye
+ManoaMenu is designed, implemented, and maintained by [Brendan Kuwabara](https://github.com/BYKuwabara), [Adam Graham](https://github.com/usradam), [Eric Kim](https://github.com/erickimtypes), [Dat Truong](https://github.com/DatTruong606), and [Justin Sumiye](https://github.com/practical-software)
 
 [Contact us](https://forms.gle/9PpZQAKeNpWkX4NNA) if you have any comments or questions.
 
