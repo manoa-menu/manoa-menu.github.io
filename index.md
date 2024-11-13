@@ -14,6 +14,7 @@
     - [Menu Page](#menu-page)
     - [Dashboard Page](#dashboard-page)
     - [Popular Items Page](#popular-items-page)
+    -[Translation Page](#translation-page)
     - [Sign-in and Sign-up](#sign-in-and-sign-up)
   - [Community Feedback](#community-feedback)
   - [Developer Guide](#developer-guide)
