@@ -83,7 +83,7 @@ This page displays the website in the language chosen by the user.
 
 ### Exchange Rate
 
-This feature allows a separate currency to be displayed next to the dollar value of an item. The user may choose the separate currency from a dropdown menu.
+This feature allows a foreign currency to be displayed next to the dollar value of an item. The user may choose a currency from a dropdown menu.
 
 ![Exchange Rate](img/mockups/ExchangeRate.png)
 
