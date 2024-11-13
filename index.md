@@ -50,7 +50,7 @@ This section provides an overview of Manoa Menu's user interface and functionali
 
 The landing page greets users and introduces Manoa Menu's purpose and features.
 
-![Landing Page](https://via.placeholder.com/1280x720/A3C8FF/000000?text=Landing+Page)
+![Landing Page](/img/mockups/LandingPage.png)
 
 ### Menu Page
 
