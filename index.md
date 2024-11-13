@@ -95,7 +95,7 @@ Click the "Login" button in the upper right corner to go to the sign-in page. On
 
 Alternatively, select "Sign up" to register as a new user:
 
-![Sign-up Page](https://via.placeholder.com/1280x720/A3C8FF/000000?text=Sign+Up+Page)
+![Sign-up Page](img/mockups/register.png)
 
 ## Community Feedback
 
