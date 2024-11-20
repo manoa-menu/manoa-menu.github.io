@@ -170,7 +170,7 @@ ManoaMenu is designed, implemented, and maintained by:
 
 [Eric Kim](https://github.com/erickimtypes) (Frontend Developer), 
 
-[Dat Truong](https://github.com/DatTruong606),
+[Dat Truong](https://github.com/DatTruong606) (Frontend UX/UI Expert),
 
 and [Justin Sumiye](https://github.com/practical-software) (Full-Stack Developer)
 
