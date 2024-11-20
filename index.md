@@ -162,8 +162,19 @@ Here are some suggested enhancements:
 
 ## Team
 
-ManoaMenu is designed, implemented, and maintained by [Brendan Kuwabara](https://github.com/BYKuwabara) (Frontend Developer), [Adam Graham](https://github.com/usradam) (Full-Stack Developer), [Eric Kim](https://github.com/erickimtypes) (Frontend Developer), [Dat Truong](https://github.com/DatTruong606), and [Justin Sumiye](https://github.com/practical-software) (Full-Stack Developer)
+ManoaMenu is designed, implemented, and maintained by:
 
-[Contact us](https://forms.gle/9PpZQAKeNpWkX4NNA) if you have any comments or questions.
+[Brendan Kuwabara](https://github.com/BYKuwabara) (Frontend Developer),
+
+[Adam Graham](https://github.com/usradam) (Full-Stack Developer),
+
+[Eric Kim](https://github.com/erickimtypes) (Frontend Developer), 
+
+[Dat Truong](https://github.com/DatTruong606),
+
+and [Justin Sumiye](https://github.com/practical-software) (Full-Stack Developer)
+
+
+##### [Contact us](https://forms.gle/9PpZQAKeNpWkX4NNA) if you have any comments or questions.
 
 ### [Team Contract](https://docs.google.com/document/d/1WQ-8HhZOTxxuxRtMikDlzCzVJDAc71cl1xgYNTWC_qc/edit?tab=t.0)
