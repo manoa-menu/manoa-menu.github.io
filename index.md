@@ -23,6 +23,7 @@
     - [Application Design](#application-design)
   - [Continuous Integration](#continuous-integration)
   - [Development History](#development-history)
+    - [Deployment](#deployment)
   - [Example Enhancements](#example-enhancements)
   - [Team](#team)
     - [Team Contract](#team-contract)
@@ -48,7 +49,7 @@ This section provides an overview of Manoa Menu's user interface and functionali
 
 ### Landing Page
 
-The landing page greets users and introduces Manoa Menu's purpose and features.
+The landing page greets users and introduces Manoa Menu's features.
 
 ![Landing Page](/img/mockups/LandingPage.png)
 
@@ -139,6 +140,9 @@ The development of Manoa Menu follows Issue Driven Project Management practices.
 * [Milestone 1](https://github.com/orgs/manoa-menu/projects/2): Initial mockup and user flow.
 * Milestone 2: Data model and basic CRUD functionality.
 * Milestone 3: Translation feature integration and UI improvements.
+
+### Deployment
+[Deployment page](https://manoa-menu.vercel.app/)
 
 ## Example Enhancements
 
