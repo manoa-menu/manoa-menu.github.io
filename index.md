@@ -12,6 +12,7 @@
   - [User Guide](#user-guide)
     - [Landing Page](#landing-page)
     - [Menu Page](#menu-page)
+    - [Admin Page](#admin-page)
     - [Dashboard Page](#dashboard-page)
     - [Popular Items Page](#popular-items-page)
     - [Translation Page](#translation-page)
@@ -61,7 +62,13 @@ For Campus Center Menu scraping: [PDF-Parse NPM](https://www.npmjs.com/package/p
 
 For Gateway Menu scraping: [Puppeteer NPM](https://www.npmjs.com/package/puppeteer)
 
-![Menu Page](/img/M1/menu.png)
+![Menu Page](/img/M1/Menu2.png)
+
+### Admin Page
+
+Menus can be manually edited in the event of translation errors or unexpected changes to the menu.
+
+![Admin Page](/img/mockups/Admin.png)
 
 ### Dashboard Page
 
