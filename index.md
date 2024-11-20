@@ -138,7 +138,7 @@ Manoa Menu uses GitHub Actions to automatically run linting and tests for each c
 The development of Manoa Menu follows Issue Driven Project Management practices. Each milestone is managed through GitHub Project Boards.
 
 * [Milestone 1](https://github.com/orgs/manoa-menu/projects/2): Initial mockup and user flow.
-* Milestone 2: Data model and basic CRUD functionality.
+* [Milestone 2](https://github.com/orgs/manoa-menu/projects/3): Data model and basic CRUD functionality.
 * Milestone 3: Translation feature integration and UI improvements.
 
 ### Deployment
