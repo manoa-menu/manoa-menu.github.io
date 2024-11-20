@@ -92,7 +92,7 @@ This feature allows a foreign currency to be displayed next to the dollar value 
 
 Click the "Login" button in the upper right corner to go to the sign-in page. Only registered users can sign in:
 
-![Sign-in Page](img/mockups/login.png)
+![Sign-in Page](img/M1/login.png)
 
 Alternatively, select "Sign up" to register as a new user:
 
