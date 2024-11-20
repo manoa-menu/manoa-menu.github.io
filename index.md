@@ -74,7 +74,7 @@ Accessible after logging in, this page displays:
 
 This page shows popular menu items among other students, with an option to add items to favorites.
 
-![Popular Items](img/mockups/popularItems.png)
+![Popular Items](img/M1/popular.png)
 
 ### Translation Page
 
