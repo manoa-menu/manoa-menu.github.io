@@ -61,7 +61,7 @@ For Campus Center Menu scraping: [PDF-Parse NPM](https://www.npmjs.com/package/p
 
 For Gateway Menu scraping: [Puppeteer NPM](https://www.npmjs.com/package/puppeteer)
 
-![Menu Page](/img/mockups/MenuPage.png)
+![Menu Page](/img/M1/menu.png)
 
 ### Dashboard Page
 
