@@ -11,11 +11,10 @@
   - [Approach](#approach)
   - [User Guide](#user-guide)
     - [Landing Page](#landing-page)
-    - [Menu Page](#menu-page)
+    - [Menu](#menu)
     - [Admin Page](#admin-page)
-    - [Dashboard Page](#dashboard-page)
-    - [Popular Items Page](#popular-items-page)
-    - [Translation Page](#translation-page)
+    - [Dashboard](#dashboard)
+    - [Popular Items](#popular-items)
     - [Find a Location](#find-a-location)
     - [Sign-in and Sign-up](#sign-in-and-sign-up)
   - [Community Feedback](#community-feedback)
@@ -27,6 +26,7 @@
     - [Deployment](#deployment)
   - [Example Enhancements](#example-enhancements)
   - [Team](#team)
+        - [Contact us if you have any comments or questions.](#contact-us-if-you-have-any-comments-or-questions)
     - [Team Contract](#team-contract)
 
 ## Overview
@@ -64,6 +64,8 @@ For Gateway Menu scraping: [Puppeteer NPM](https://www.npmjs.com/package/puppete
 
 ![Menu Page](/img/M2/Menu.png)
 
+![Menu Translated](/img/M2/Translation.png)
+
 ### Admin Page
 
 Menus can be manually edited in the event of translation errors or unexpected changes to the menu.
@@ -84,11 +86,7 @@ This page shows popular menu items among other students, with an option to add i
 
 ![Popular Items](img/M2/Popular.png)
 
-### Translation Page
-
-This page displays the website in the language chosen by the user.
-
-![Translation Page](img/M2/Translation.png)
+![Translation Page]()
 
 ### Find a Location
 
@@ -172,7 +170,7 @@ Manoa Menu is designed, implemented, and maintained by:
 
 [Dat Truong](https://github.com/DatTruong606) (Frontend UX/UI Expert),
 
-and [Justin Sumiye](https://github.com/practical-software) (Full-Stack Developer)
+and [Justin Sumiye](https://github.com/practical-software) (Full-Stack Developer & Professional Web Scraper)
 
 
 ##### [Contact us](https://forms.gle/9PpZQAKeNpWkX4NNA) if you have any comments or questions.
