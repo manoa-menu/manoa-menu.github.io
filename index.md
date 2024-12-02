@@ -52,7 +52,8 @@ This section provides an overview of Manoa Menu's user interface and functionali
 
 The landing page greets users and introduces Manoa Menu's features.
 
-![Landing Page](/img/mockups/LandingPage.png)
+![Landing Page Title](/img/M2/Landing-1.png)
+![Landing Page Features](/img/M2/Landing-2.png)
 
 ### Menu
 
@@ -85,8 +86,6 @@ Accessible after logging in, this page displays:
 This page shows popular menu items among other students, with an option to add items to favorites.
 
 ![Popular Items](img/M2/Popular.png)
-
-![Translation Page]()
 
 ### Find a Location
 
