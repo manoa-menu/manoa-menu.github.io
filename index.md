@@ -16,7 +16,7 @@
     - [Dashboard Page](#dashboard-page)
     - [Popular Items Page](#popular-items-page)
     - [Translation Page](#translation-page)
-    - [Exchange Rate](#exchange-rate)
+    - [Find a Location](#find-a-location)
     - [Sign-in and Sign-up](#sign-in-and-sign-up)
   - [Community Feedback](#community-feedback)
   - [Developer Guide](#developer-guide)
@@ -54,7 +54,7 @@ The landing page greets users and introduces Manoa Menu's features.
 
 ![Landing Page](/img/mockups/LandingPage.png)
 
-### Menu Page
+### Menu
 
 This page shows the current cafeteria menu. By default, it displays in English, but users can select the Japanese translation if desired.
 
@@ -62,7 +62,7 @@ For Campus Center Menu scraping: [PDF-Parse NPM](https://www.npmjs.com/package/p
 
 For Gateway Menu scraping: [Puppeteer NPM](https://www.npmjs.com/package/puppeteer)
 
-![Menu Page](/img/M1/Menu2.png)
+![Menu Page](/img/M2/Menu.png)
 
 ### Admin Page
 
@@ -70,45 +70,45 @@ Menus can be manually edited in the event of translation errors or unexpected ch
 
 ![Admin Page](/img/mockups/Admin.png)
 
-### Dashboard Page
+### Dashboard
 
 Accessible after logging in, this page displays:
   - Saved favorite items and an indicator if any of these items are on this week’s menu
   - Recommended menu items, based on previous favorites
 
-![Dashboard Page](img/M1/dashboard.png)
+![Dashboard Page](img/M2/Dashboard.png)
 
-### Popular Items Page
+### Popular Items
 
 This page shows popular menu items among other students, with an option to add items to favorites.
 
-![Popular Items](img/M1/popular.png)
+![Popular Items](img/M2/Popular.png)
 
 ### Translation Page
 
 This page displays the website in the language chosen by the user.
 
-![Translation Page](img/mockups/TranslationPage.png)
+![Translation Page](img/M2/Translation.png)
 
-### Exchange Rate
+### Find a Location
 
-This feature allows a foreign currency to be displayed next to the dollar value of an item. The user may choose a currency from a dropdown menu.
+This page features an embedded Google Maps for each eatery we support so you can easily find directions to the location.
 
-![Exchange Rate](img/mockups/ExchangeRate.png)
+![Find a Location](img/M2/Locations.png)
 
 ### Sign-in and Sign-up
 
 Click the "Login" button in the upper right corner to go to the sign-in page. Only registered users can sign in:
 
-![Sign-in Page](img/M1/login.png)
+![Sign-in Page](img/M2/Login.png)
 
 Alternatively, select "Sign up" to register as a new user:
 
-![Sign-up Page](img/M1/signup.png)
+![Sign-up Page](img/M2/Signup.png)
 
 ## Community Feedback
 
-We’d love to hear your thoughts on Manoa Menu! Feel free to take a few minutes to fill out the [Manoa Menu Feedback Form](https://forms.gle/fp6cH6FRNwqR3KMP6), which has just five questions to help us improve the system.
+We’d love to hear your thoughts on Manoa Menu! Feel free to take a few minutes to fill out the [Manoa Menu Feedback Form](https://forms.gle/fp6cH6FRNwqR3KMP6), which has just five questions to help us improve the website.
 
 ## Developer Guide
 
@@ -146,7 +146,7 @@ The development of Manoa Menu follows Issue Driven Project Management practices.
 
 * [Milestone 1](https://github.com/orgs/manoa-menu/projects/2): Initial mockup and user flow.
 * [Milestone 2](https://github.com/orgs/manoa-menu/projects/4): Data model and basic CRUD functionality.
-* Milestone 3: Translation feature integration and UI improvements.
+* [Milestone 3](https://github.com/orgs/manoa-menu/projects/7): Food and user data integration and UI improvements.
 
 ### Deployment
 [Deployment page](https://manoa-menu.vercel.app/)
@@ -162,7 +162,7 @@ Here are some suggested enhancements:
 
 ## Team
 
-ManoaMenu is designed, implemented, and maintained by:
+Manoa Menu is designed, implemented, and maintained by:
 
 [Brendan Kuwabara](https://github.com/BYKuwabara) (Frontend Developer),
 
