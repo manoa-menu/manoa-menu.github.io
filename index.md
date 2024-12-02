@@ -100,7 +100,6 @@ This page features an embedded Google Maps for each eatery we support so you can
 
 Click the "Login" button in the upper right corner to go to the sign-in page. Only registered users can sign in:
 
-![Sign-in Page](img/M2/signin.png)
 ![Sign-in Page](img/M2/Login.png)
 
 Alternatively, select "Sign up" to register as a new user:
