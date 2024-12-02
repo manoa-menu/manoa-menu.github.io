@@ -137,6 +137,8 @@ Manoa Menu uses Next.js for its frontend, while the backend is structured with P
 
 Manoa Menu uses GitHub Actions to automatically run linting and tests for each commit to the main branch. You can view recent workflow results at [https://github.com/manoamenu/manoamenu/actions](https://github.com/manoamenu/manoamenu/actions).
 
+[![ci-badge](https://github.com/manoa-menu/manoa-menu/actions/workflows/ci.yml/badge.svg)](https://github.com/manoa-menu/manoa-menu/actions/workflows/ci.yml)
+
 ## Development History
 
 The development of Manoa Menu follows Issue Driven Project Management practices. Each milestone is managed through GitHub Project Boards.
