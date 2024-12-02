@@ -146,7 +146,7 @@ The development of Manoa Menu follows Issue Driven Project Management practices.
 
 * [Milestone 1](https://github.com/orgs/manoa-menu/projects/2): Initial mockup and user flow.
 * [Milestone 2](https://github.com/orgs/manoa-menu/projects/4): Data model and basic CRUD functionality.
-* Milestone 3: Translation feature integration and UI improvements.
+* [Milestone 3](https://github.com/orgs/manoa-menu/projects/7): Translation feature integration and UI improvements.
 
 ### Deployment
 [Deployment page](https://manoa-menu.vercel.app/)
