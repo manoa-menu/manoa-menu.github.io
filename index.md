@@ -135,7 +135,7 @@ Manoa Menu uses Next.js for its frontend, while the backend is structured with P
 
 ## Continuous Integration
 
-Manoa Menu uses GitHub Actions to automatically run linting and tests for each commit to the main branch. You can view recent workflow results at https://github.com/manoa-menu/manoa-menu/actions.
+Manoa Menu uses GitHub Actions to automatically run linting and tests for each commit to the main branch. You can view recent workflow results at [https://github.com/manoa-menu/manoa-menu/actions](https://github.com/manoa-menu/manoa-menu/actions).
 
 [![ci-badge](https://github.com/manoa-menu/manoa-menu/actions/workflows/ci.yml/badge.svg)](https://github.com/manoa-menu/manoa-menu/actions/workflows/ci.yml)
 
