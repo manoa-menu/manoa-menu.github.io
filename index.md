@@ -12,6 +12,9 @@
   - [User Guide](#user-guide)
     - [Landing Page](#landing-page)
     - [Menu](#menu)
+    - [Campus Center Menu](#campus-center-menu)
+    - [Gateway Cafe Menu](#gateway-cafe-menu)
+    - [Hale Aloha Cafe Menu](#hale-aloha-cafe-menu)
     - [Admin Page](#admin-page)
     - [Dashboard](#dashboard)
     - [Popular Items](#popular-items)
@@ -36,11 +39,11 @@
 **The solution:** The Manoa Menu web application translates the cafeteria menu from English to Japanese, ensuring accurate and culturally aware descriptions. The app adds supplementary information for menu items that might be unfamiliar. Users can view the menu without needing to log in, while logged-in users can save their favorite items and check if these favorites appear on the current week's menu.
 
 ## Approach
-* **Frontend (Next.js):**
+* **Front-end (Next.js):**
   * Menu and dashboard with clear, user-friendly interface
   * Translated menu and cultural item descriptions
   * Menu scraping from PDFs using tools like [PDF-Parse](https://www.npmjs.com/package/pdf-parse) or [PDF2JSON](https://www.npmjs.com/package/pdf2json)
-* **Backend (Prisma ORM & PostgreSQL):**
+* **Back-end (Prisma ORM & PostgreSQL):**
   * Database for user data and saved menu items
   * OpenAI API calls to generate descriptive details for unfamiliar menu items
 
@@ -52,26 +55,47 @@ This section provides an overview of Manoa Menu's user interface and functionali
 
 The landing page greets users and introduces Manoa Menu's features.
 
-![Landing Page Title](/img/M2/Landing-1.png)
-![Landing Page Features](/img/M2/Landing-2.png)
+![Landing Page Title](/img/M3/home1.png)
+![Landing Page Features](/img/M3/home2.png)
 
 ### Menu
 
 This page shows the current cafeteria menu. By default, it displays in English, but users can select the Japanese translation if desired.
 
-For Campus Center Menu scraping: [PDF-Parse NPM](https://www.npmjs.com/package/pdf-parse)
+For Campus Center Menu scraping: 
 
-For Gateway Menu scraping: [Puppeteer NPM](https://www.npmjs.com/package/puppeteer)
+- [PDF-Parse NPM](https://www.npmjs.com/package/pdf-parse)
+- [JSDom NPM](https://www.npmjs.com/package/jsdom)
 
-![Menu Page](/img/M2/Menu.png)
 
-![Menu Translated](/img/M2/Translation.png)
+### Campus Center Menu
+
+
+![Menu Page](/img/M3/menu-cc-en.png)
+
+![Menu Translated](/img/M3/menu-cc-jp.png)
+
+
+### Gateway Cafe Menu
+
+
+![Menu Page](/img/M3/menu-gw-en.png)
+
+![Menu Translated](/img/M3/menu-gw-jp.png)
+
+
+### Hale Aloha Cafe Menu
+
+![Menu Page](/img/M3/menu-ha-en.png)
+
+![Menu Translated](/img/M3/menu-ha-jp.png)
+
 
 ### Admin Page
 
 Menus can be manually edited in the event of translation errors or unexpected changes to the menu.
 
-![Admin Page](/img/mockups/Admin.png)
+![Admin Page](/img/M3/admin.png)
 
 ### Dashboard
 
@@ -131,7 +155,7 @@ This section provides information for developers who want to contribute to or cu
 
 ### Application Design
 
-Manoa Menu uses Next.js for its frontend, while the backend is structured with Prisma ORM and PostgreSQL. The data model includes tables for users, menu items, and saved favorites, supporting relational queries to efficiently manage user data and preferences.
+Manoa Menu uses Next.js for its front-end, while the back-end is structured with Prisma ORM and PostgreSQL. The data model includes tables for users, menu items, and saved favorites, supporting relational queries to efficiently manage user data and preferences.
 
 ## Continuous Integration
 
@@ -154,7 +178,6 @@ The development of Manoa Menu follows Issue Driven Project Management practices.
 
 Here are some suggested enhancements:
 
-* **Add icons for cultural descriptions:** Display an icon next to menu items to indicate culturally relevant notes.
 * **Enable weekly email notifications:** Send users a summary of the week’s menu, highlighting their favorites.
 * **Admin dashboard:** Allow admin users to add or edit menu descriptions and moderate user feedback.
 * **Additional language support:** Extend support to other common languages among UHM international students.
@@ -163,15 +186,15 @@ Here are some suggested enhancements:
 
 Manoa Menu is designed, implemented, and maintained by:
 
-[Brendan Kuwabara](https://github.com/BYKuwabara) (Frontend Developer),
+[Brendan Kuwabara](https://github.com/BYKuwabara) (Front-end Developer),
 
 [Adam Graham](https://github.com/usradam) (Full-Stack Developer),
 
-[Eric Kim](https://github.com/erickimtypes) (Frontend Developer), 
+[Eric Kim](https://github.com/erickimtypes) (Front-end Developer), 
 
-[Dat Truong](https://github.com/DatTruong606) (Frontend UX/UI Expert),
+[Dat Truong](https://github.com/DatTruong606) (Front-end UX/UI Expert),
 
-and [Justin Sumiye](https://github.com/practical-software) (Full-Stack Developer & Professional Web Scraper)
+and [Justin Sumiye](https://github.com/practical-software) (Full-Stack Developer & *Professional Web Scraper*)
 
 
 ##### [Contact us](https://forms.gle/9PpZQAKeNpWkX4NNA) if you have any comments or questions.
