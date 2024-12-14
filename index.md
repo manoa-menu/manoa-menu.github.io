@@ -1,6 +1,7 @@
 # Manoa Menu
 
 ![Manoa Menu Bg](/img/manoa-menu-bg.png)
+![ci-badge](https://github.com/manoa-menu/manoa-menu/workflows/ci-nextjs-application-template/badge.svg)
 
 
 ## Table of contents
