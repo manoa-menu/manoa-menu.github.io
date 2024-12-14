@@ -19,7 +19,7 @@
     - [Admin Page](#admin-page)
     - [Dashboard](#dashboard)
     - [Popular Items](#popular-items)
-    - [Dining Location \& Hours](#dining-location--hours)
+    - [Dining Location & Hours](#dining-location--hours)
     - [Sign-in and Sign-up](#sign-in-and-sign-up)
   - [Community Feedback](#community-feedback)
       - [Community Comments](#community-comments)
