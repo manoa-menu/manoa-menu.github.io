@@ -19,9 +19,11 @@
     - [Admin Page](#admin-page)
     - [Dashboard](#dashboard)
     - [Popular Items](#popular-items)
-    - [Find a Location](#find-a-location)
+    - [Dining Location \& Hours](#dining-location--hours)
     - [Sign-in and Sign-up](#sign-in-and-sign-up)
   - [Community Feedback](#community-feedback)
+      - [Community Comments:](#community-comments)
+      - [Community Feedback Checklist:](#community-feedback-checklist)
   - [Developer Guide](#developer-guide)
     - [Installation](#installation)
     - [Application Design](#application-design)
@@ -112,11 +114,11 @@ This page shows popular menu items among other students, with an option to add i
 
 ![Popular Items](img/M2/Popular.png)
 
-### Find a Location
+### Dining Location & Hours
 
 This page features an embedded Google Maps for each eatery we support so you can easily find directions to the location.
 
-![Find a Location](img/M2/Locations.png)
+![Dining Location & Hours](img/M3/map-hours.png)
 
 ### Sign-in and Sign-up
 
@@ -131,6 +133,19 @@ Alternatively, select "Sign up" to register as a new user:
 ## Community Feedback
 
 We’d love to hear your thoughts on Manoa Menu! Feel free to take a few minutes to fill out the [Manoa Menu Feedback Form](https://forms.gle/fp6cH6FRNwqR3KMP6), which has just five questions to help us improve the website.
+
+#### Community Comments:
+- "Overall, the site is fantastic and very well-thought-out.  You guys seemed to have covered everything that a student would want to see.  I can see this being well utilized by many students, especially if you take suggestions on what they would like to see."
+- "I like that you considered mobile and desktop users -- it is usable on multiple devices."
+- "Appreciated how you communicated the use case and value proposition, that there is an information gap when it comes to menu items at Campus Center and itl students/associated language barrier"
+- "I think this site is a great idea and can be used by the many international students here at UHM. The execution was well-done."
+
+#### Community Feedback Checklist:
+- [x] "Should the main page have a "Menu" button right above Features, since that's the main part of the page, instead of having to find it in the hamburger icon up top?"
+- [x] "In Campus Cravings the food pics seem to float on iPhone. Is it supposed to be that way?"
+- [x] "Maybe for the Find a Location maps, instead of the link saying "View larger map", should it say "View larger map and directions" since you have to click there to get to the Google directions?"
+- [x] Dropdown to navigate can be hard to see, there should be some kind of background behind the text.
+- [ ] How come the menu format for Campus Center differs from that of Gateway and Hale Aloha?
 
 ## Developer Guide
 
