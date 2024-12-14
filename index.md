@@ -138,6 +138,7 @@ We’d love to hear your thoughts on Manoa Menu! Feel free to take a few minutes
 - "I like that you considered mobile and desktop users -- it is usable on multiple devices."
 - "Appreciated how you communicated the use case and value proposition, that there is an information gap when it comes to menu items at Campus Center and itl students/associated language barrier"
 - "I think this site is a great idea and can be used by the many international students here at UHM. The execution was well-done."
+- "Good mix of conciseness and a lot of information. A lot of UI that supports all of these information and keeping it brief."
 
 #### Community Feedback Checklist:
 - [x] "Should the main page have a "Menu" button right above Features, since that's the main part of the page, instead of having to find it in the hamburger icon up top?"
@@ -145,6 +146,7 @@ We’d love to hear your thoughts on Manoa Menu! Feel free to take a few minutes
 - [x] "Maybe for the Find a Location maps, instead of the link saying "View larger map", should it say "View larger map and directions" since you have to click there to get to the Google directions?"
 - [x] Dropdown to navigate can be hard to see, there should be some kind of background behind the text.
 - [ ] How come the menu format for Campus Center differs from that of Gateway and Hale Aloha?
+- [ ] "Are the images from the locations themselves? You should warn the users about that."
 
 ## Developer Guide
 
