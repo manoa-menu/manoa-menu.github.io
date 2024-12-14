@@ -105,13 +105,14 @@ Accessible after logging in, this page displays:
   - Saved favorite items and an indicator if any of these items are on this week’s menu
   - Recommended menu items, based on previous favorites
 
-![Dashboard Page](img/M2/Dashboard.png)
+![Dashboard Page](img/M3/dashboard-EN.png)
+![Dashboard Page](img/M3/dashboard-JP.png)
 
 ### Popular Items
 
 This page shows popular menu items among other students, with an option to add items to favorites.
 
-![Popular Items](img/M2/Popular.png)
+![Popular Items](img/M3/campusCravings.png)
 
 ### Dining Location & Hours
 
