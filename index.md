@@ -26,11 +26,10 @@
       - [Community Feedback Checklist:](#community-feedback-checklist)
   - [Developer Guide](#developer-guide)
     - [Installation](#installation)
+  - [Deployment](#deployment)
     - [Application Design](#application-design)
   - [Continuous Integration](#continuous-integration)
   - [Development History](#development-history)
-    - [Deployment](#deployment)
-  - [Example Enhancements](#example-enhancements)
   - [Team](#team)
         - [Contact us if you have any comments or questions.](#contact-us-if-you-have-any-comments-or-questions)
     - [Team Contract](#team-contract)
@@ -169,6 +168,10 @@ This section provides information for developers who want to contribute to or cu
 
 5. Access the app at [http://localhost:3000](http://localhost:3000).
 
+## Deployment
+
+[Deployment page](https://manoa-menu.vercel.app/)
+
 ### Application Design
 
 Manoa Menu uses Next.js for its front-end, while the back-end is structured with Prisma ORM and PostgreSQL. The data model includes tables for users, menu items, and saved favorites, supporting relational queries to efficiently manage user data and preferences.
@@ -187,16 +190,6 @@ The development of Manoa Menu follows Issue Driven Project Management practices.
 * [Milestone 2](https://github.com/orgs/manoa-menu/projects/4): Data model and basic CRUD functionality.
 * [Milestone 3](https://github.com/orgs/manoa-menu/projects/7): Food and user data integration and UI improvements.
 
-### Deployment
-[Deployment page](https://manoa-menu.vercel.app/)
-
-## Example Enhancements
-
-Here are some suggested enhancements:
-
-* **Enable weekly email notifications:** Send users a summary of the week’s menu, highlighting their favorites.
-* **Admin dashboard:** Allow admin users to add or edit menu descriptions and moderate user feedback.
-* **Additional language support:** Extend support to other common languages among UHM international students.
 
 ## Team
 
